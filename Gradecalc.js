@@ -23,7 +23,7 @@ function calculateGrade(marks) {
         console.log("You scored a D");
 
     else
-        console.log("You scored an F")
+        console.log("You scored an F");
 
 }
 
